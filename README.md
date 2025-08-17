@@ -1,6 +1,4 @@
-This is my first project in programming in C language and my first time posting on github.
+This is my first project in programming with the C language. You can download the file and try running the bank system simulation from this link:
+https://github.com/Toxnopadon/bank_system-appC/archive/refs/heads/main.zip
 
-You can download the file by clicking the link below : 
-**https://github.com/Toxnopadon/bank_system-appC/archive/refs/heads/main.zip**
-
-After downloading, extract the file, open the src folder, and then open the application file to run the project.
+After downloading, please note that there are still some errors. The program can run, but it cannot save data because the file paths on my computer and yours are not the same. This is an issue that, with my current ability, I am unable to fix yet.
